@@ -1,1 +1,1 @@
-(a=b=function(){console.log("p"+"io"[b=!b+0]+"ng");setTimeout(a,0)})();
+(a=b=function(){console.log("p"+"io"[b=!b+0]+"ng");setTimeout(a,0)})()
